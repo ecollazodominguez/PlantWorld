@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_enfermedades"
+        android:icon="@drawable/antivirus3"
+        android:title="@string/enfermedades" />
+
+    <item
+        android:id="@+id/navigation_inicio"
+        android:icon="@drawable/house3"
+        android:title="@string/inicio" />
+
+    <item
+        android:id="@+id/navigation_favoritos"
+        android:icon="@drawable/plantpot2"
+        android:title="@string/Favoritos" />
+
+</menu>
